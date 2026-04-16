@@ -1,13 +1,13 @@
 # Employee-Performance-Dashboard-
 Automated Employee Performance Tracking using n8n, Google Sheets &amp; Power BI
-# 📊 Employee Performance Dashboard
+#  Employee Performance Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 This project automates employee performance tracking and visualization using n8n, Google Sheets, and Power BI.
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 In many organizations, employee performance data is collected manually through forms or emails, which leads to several issues:
 
 - Data is scattered across different platforms
@@ -20,7 +20,7 @@ Because of these challenges, decision-making becomes slow and inefficient.
 
 ---
 
-## ✅ Solution
+##  Solution
 This project provides an automated system that:
 
 - Collects data using Google Forms
@@ -30,14 +30,14 @@ This project provides an automated system that:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - n8n (Automation)
 - Google Sheets (Database)
 - Power BI (Dashboard)
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - Total Employees Count
 - Average Performance Rating
 - Department-wise Analysis
@@ -46,13 +46,13 @@ This project provides an automated system that:
 
 ---
 
-## 🔗 Data Source
+##  Data Source
 Google Sheet Link:  
 https://docs.google.com/spreadsheets/d/1HDEKi2JZ5XeVnRHDNURGk5SP9jXllRkJVyaNwlJXqA4
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 1. Data collected via form
 2. Stored in Google Sheets
 3. n8n processes and categorizes data
@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1HDEKi2JZ5XeVnRHDNURGk5SP9jXllRkJVyaNwlJX
 
 ---
 
-## 📌 Key Takeaways
+##  Key Takeaways
 - Reduced manual work
 - Real-time data tracking
 - Better decision making
@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1HDEKi2JZ5XeVnRHDNURGk5SP9jXllRkJVyaNwlJX
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 - AI-based performance prediction
 - Automated alerts for low performers
 - Integration with HR systems
@@ -76,5 +76,5 @@ https://docs.google.com/spreadsheets/d/1HDEKi2JZ5XeVnRHDNURGk5SP9jXllRkJVyaNwlJX
 
 ---
 
-## 👩‍💻 Author
-Preeti
+##  Author
+Sneha Pathak
